@@ -1,3 +1,5 @@
+The file is too large to upload to github, so it can be found [here](https://drive.google.com/file/d/1zYbjBbvX9hgIerII0qV3vwFOTHtz88Cx/view?usp=sharing).
+
 The purpose of this project was to familiarize myself with PowerBI by analyzing data from Shopify apps.
 
 The PowerBI file contains three pages:
